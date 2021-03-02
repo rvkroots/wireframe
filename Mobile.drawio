@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T20:15:42.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ZaPpWhcEB98y3CMs_iGn" version="14.4.3" type="github"><diagram id="26zLncuS-qS8-nEXBHwh" name="Page-1">jZPBToQwEIafhqMJUF3jddkVE+NpNUZvDR1p3UKxDAI+vWXbAs1mkz3R+eZvO/1niEhWDbmmDX9RDGSUxmyIyC5K0+SebMxnIqMlD3FsQakFc6IFHMQfOOhlnWDQBkJUSqJoQliouoYCA0a1Vn0o+1IyvLWhJZyBQ0HlOX0XDLmlZBMv/AlEyd3Nm/TOJirqtU7ZcspUv0JkH5FMK4V2VQ0ZyMk7b4vd93ghO9elocZrNrzm37s6ST/Ez1vW5wPpPo/PN8Se8ktl597risXRG6BVVzOYDokjsu25QDg0tJiyvWm5YRwraaLELJnQpglC1VMWWlPYtpS0bd3u9ghYcB94Q04BanWcHSaGuMpAIwwXn5zMRpoBBFUB6tFIhnCGxjDsV328dYyve+hHlLrZKeeTF3/Nwlnsw6WVp9zqfyD7fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-02T20:18:55.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="7LCzHT6XcviBCG1DARbd" version="14.4.3" type="github" pages="2">
+  <diagram id="26zLncuS-qS8-nEXBHwh" name="Homepage - Above the fold">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="360" pageHeight="625" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TGjDn12YiqUCwGx3uZkK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;glass=0;sketch=0;shadow=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="340" height="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eeSFocnqYcf7afKlAaXB" name="Homepage - Below the fold">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="360" pageHeight="625" math="0" shadow="0">
+      <root>
+        <mxCell id="rwqkIsWtBp23M0rXukuH-0" />
+        <mxCell id="rwqkIsWtBp23M0rXukuH-1" parent="rwqkIsWtBp23M0rXukuH-0" />
+        <mxCell id="8mCxuoRyKIayhoLIdNAR-0" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;glass=0;sketch=0;shadow=0;strokeWidth=3;" vertex="1" parent="rwqkIsWtBp23M0rXukuH-1">
+          <mxGeometry x="10" y="10" width="340" height="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
